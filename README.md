@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabrielbbbbb
+- 👋 Hi, I’m @gabrielZomayi
 - 👀 I’m interested in Web programming...
 - 🌱 I’m currently learning Front-end courses
 - 💞️ I’m looking to collaborate on some projet to get me to dream standard..
